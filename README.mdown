@@ -10,9 +10,9 @@ The app allows children to listen to audio stories using their device's Text-to-
 
 - A curated library of at least 5 children's stories
 - Each story includes a related image and extra details ( such as author, year, etc.)
-- Integrated Text-to-Speech to narrate stories aloud (applicable only to greek)
+- Integrated Text-to-Speech to narrate stories aloud (applicable only for greek)
 - Multilingual support (English, German for the app interface, full support only for greek)
-- Firebase Realtime d
+- Firebase Realtime database
 
 ---
 
