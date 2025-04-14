@@ -36,7 +36,7 @@ The app allows children to listen to audio stories using their device's Text-to-
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="assets/demo.gif" width="320"/>
 </div>
 
