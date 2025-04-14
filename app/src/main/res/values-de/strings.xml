@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Unipi Audio Stories</string>
+
+    <!-- Allgemein -->
+    <string name="app_logo">App-Logo</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="version">Version</string>
+    <string name="error">Fehler</string>
+
+    <!-- Anmeldung und Registrierung -->
+    <string name="login">Anmelden</string>
+    <string name="register">Registrieren</string>
+    <string name="logout">Abmelden</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Passwort</string>
+    <string name="confirm_password">Passwort bestätigen</string>
+    <string name="name">Name</string>
+    <string name="no_account_register">Kein Konto? Hier registrieren</string>
+    <string name="already_have_account">Bereits ein Konto? Hier anmelden</string>
+    <string name="email_required">E-Mail ist erforderlich</string>
+    <string name="password_required">Passwort ist erforderlich</string>
+    <string name="name_required">Name ist erforderlich</string>
+    <string name="password_too_short">Passwort muss mindestens 6 Zeichen haben</string>
+    <string name="passwords_do_not_match">Passwörter stimmen nicht überein</string>
+    <string name="registration_successful">Registrierung erfolgreich</string>
+
+    <!-- Hauptbildschirm -->
+    <string name="no_stories_available">Keine Geschichten verfügbar</string>
+    <string name="story_image">Geschichtenbild</string>
+    <string name="favorite">Favorit</string>
+    <string name="language_changed">Sprache erfolgreich geändert</string>
+
+    <!-- Geschichtendetails -->
+    <string name="play">Abspielen</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Fortsetzen</string>
+    <string name="stop">Stopp</string>
+
+    <!-- Statistiken -->
+    <string name="statistics">Statistiken</string>
+    <string name="no_statistics_available">Keine Statistiken verfügbar</string>
+    <string name="play_count">Wiedergabeanzahl</string>
+    <string name="last_played">Zuletzt abgespielt</string>
+    <string name="unknown_story">Unbekannte Geschichte</string>
+    <string name="statistics_reset_success">Statistiken erfolgreich zurückgesetzt</string>
+    <string name="reset_statistics">Statistiken zurücksetzen</string>
+    <string name="reset_statistics_confirmation">Sind Sie sicher, dass Sie alle Statistiken zurücksetzen möchten? Diese Aktion kann nicht rückgängig gemacht werden.</string>
+
+    <!-- Einstellungen -->
+    <string name="settings">Einstellungen</string>
+    <string name="language">Sprache</string>
+    <string name="speech_settings">Spracheinstellungen</string>
+    <string name="speech_rate">Sprechgeschwindigkeit</string>
+    <string name="speech_pitch">Sprechtonhöhe</string>
+    <string name="voice_commands">Sprachbefehle</string>
+    <string name="enable_voice_commands">Sprachbefehle aktivieren</string>
+    <string name="data_management">Datenverwaltung</string>
+
+    <!-- Barrierefreiheit -->
+    <string name="stories_list_description">Geschichtenliste. Hier werden alle verfügbaren Audiogeschichten angezeigt.</string>
+    <string name="statistics_list_description">Statistikliste. Hier werden Wiedergabestatistiken für Geschichten angezeigt.</string>
+
+    <!-- TTS und Sprachbefehle -->
+    <string name="checking_tts_data">Überprüfung der Text-to-Speech-Daten...</string>
+    <string name="tts_data_installed">Text-to-Speech-Daten sind installiert</string>
+    <string name="installing_tts_data">Installation von Text-to-Speech-Daten...</string>
+    <string name="speech_recognition_not_available">Spracherkennung ist auf diesem Gerät nicht verfügbar</string>
+    <string name="voice_command_executed">Sprachbefehl ausgeführt</string>
+    <string name="voice_command_play">Abspielen</string>
+    <string name="voice_command_pause">Pause</string>
+    <string name="voice_command_stop">Stopp</string>
+    <string name="speech_rate_test">Dies ist ein Testtext für die Sprechgeschwindigkeit</string>
+    <string name="speech_pitch_test">Dies ist ein Testtext für die Sprechtonhöhe</string>
+    <string name="voice_recognition_test_prompt">Sagen Sie etwas zum Testen</string>
+    <string name="voice_recognition_result">Erkannt</string>
+    <string name="listen_story">Geschichte anhören</string>
+
+</resources>

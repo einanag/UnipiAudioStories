@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Unipi Audio Stories</string>
+
+    <!-- Γενικά -->
+    <string name="app_logo">Λογότυπο εφαρμογής</string>
+    <string name="yes">Ναι</string>
+    <string name="no">Όχι</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="version">Έκδοση</string>
+    <string name="error">Σφάλμα</string>
+
+    <!-- Σύνδεση και Εγγραφή -->
+    <string name="login">Σύνδεση</string>
+    <string name="register">Εγγραφή</string>
+    <string name="logout">Αποσύνδεση</string>
+    <string name="email">Email</string>
+    <string name="password">Κωδικός</string>
+    <string name="confirm_password">Επιβεβαίωση Κωδικού</string>
+    <string name="name">Όνομα</string>
+    <string name="no_account_register">Δεν έχετε λογαριασμό; Εγγραφείτε εδώ</string>
+    <string name="already_have_account">Έχετε ήδη λογαριασμό; Συνδεθείτε εδώ</string>
+    <string name="email_required">Το email είναι υποχρεωτικό</string>
+    <string name="password_required">Ο κωδικός είναι υποχρεωτικός</string>
+    <string name="name_required">Το όνομα είναι υποχρεωτικό</string>
+    <string name="password_too_short">Ο κωδικός πρέπει να έχει τουλάχιστον 6 χαρακτήρες</string>
+    <string name="passwords_do_not_match">Οι κωδικοί δεν ταιριάζουν</string>
+    <string name="registration_successful">Η εγγραφή ολοκληρώθηκε με επιτυχία</string>
+
+    <!-- Κύρια Οθόνη -->
+    <string name="no_stories_available">Δεν υπάρχουν διαθέσιμες ιστορίες</string>
+    <string name="story_image">Εικόνα ιστορίας</string>
+    <string name="favorite">Αγαπημένο</string>
+    <string name="language_changed">Η γλώσσα άλλαξε με επιτυχία</string>
+
+    <!-- Λεπτομέρειες Ιστορίας -->
+    <string name="play">Αναπαραγωγή</string>
+    <string name="pause">Παύση</string>
+    <string name="resume">Συνέχεια</string>
+    <string name="stop">Διακοπή</string>
+
+    <!-- Στατιστικά -->
+    <string name="statistics">Στατιστικά</string>
+    <string name="no_statistics_available">Δεν υπάρχουν διαθέσιμα στατιστικά</string>
+    <string name="play_count">Αναπαραγωγές</string>
+    <string name="last_played">Τελευταία αναπαραγωγή</string>
+    <string name="unknown_story">Άγνωστη ιστορία</string>
+    <string name="statistics_reset_success">Τα στατιστικά επαναφέρθηκαν με επιτυχία</string>
+    <string name="reset_statistics">Επαναφορά Στατιστικών</string>
+    <string name="reset_statistics_confirmation">Είστε σίγουροι ότι θέλετε να επαναφέρετε όλα τα στατιστικά; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.</string>
+
+    <!-- Ρυθμίσεις -->
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="language">Γλώσσα</string>
+    <string name="speech_settings">Ρυθμίσεις Ομιλίας</string>
+    <string name="speech_rate">Ταχύτητα Ομιλίας</string>
+    <string name="speech_pitch">Τόνος Ομιλίας</string>
+    <string name="voice_commands">Φωνητικές Εντολές</string>
+    <string name="enable_voice_commands">Ενεργοποίηση φωνητικών εντολών</string>
+    <string name="data_management">Διαχείριση Δεδομένων</string>
+
+    <!-- Προσβασιμότητα -->
+    <string name="stories_list_description">Λίστα ιστοριών. Εδώ εμφανίζονται όλες οι διαθέσιμες ηχητικές ιστορίες.</string>
+    <string name="statistics_list_description">Λίστα στατιστικών. Εδώ εμφανίζονται τα στατιστικά αναπαραγωγής για τις ιστορίες.</string>
+
+    <!-- TTS και Φωνητικές Εντολές -->
+    <string name="checking_tts_data">Έλεγχος δεδομένων Text-to-Speech...</string>
+    <string name="tts_data_installed">Τα δεδομένα Text-to-Speech είναι εγκατεστημένα</string>
+    <string name="installing_tts_data">Εγκατάσταση δεδομένων Text-to-Speech...</string>
+    <string name="speech_recognition_not_available">Η αναγνώριση ομιλίας δεν είναι διαθέσιμη σε αυτή τη συσκευή</string>
+    <string name="voice_command_executed">Η φωνητική εντολή εκτελέστηκε</string>
+    <string name="voice_command_play">Αναπαραγωγή</string>
+    <string name="voice_command_pause">Παύση</string>
+    <string name="voice_command_stop">Διακοπή</string>
+    <string name="speech_rate_test">Αυτό είναι ένα δοκιμαστικό κείμενο για την ταχύτητα ομιλίας</string>
+    <string name="speech_pitch_test">Αυτό είναι ένα δοκιμαστικό κείμενο για τον τόνο ομιλίας</string>
+    <string name="voice_recognition_test_prompt">Πείτε κάτι για δοκιμή</string>
+    <string name="voice_recognition_result">Αναγνωρίστηκε</string>
+    <string name="listen_story">Άκουσε την ιστορία</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Βασικά χρώματα εφαρμογής -->
+    <color name="colorPrimary">#673AB7</color>
+    <color name="colorPrimaryDark">#512DA8</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorText">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+
+    <!-- Χρώματα για το pixel art στυλ -->
+    <color name="pixelBackground">#FFFFFF</color>
+    <color name="pixelDark">#212121</color>
+    <color name="pixelPurple">#673AB7</color>
+    <color name="pixelPink">#FF4081</color>
+    <color name="pixelBlue">#2196F3</color>
+    <color name="pixelText">#212121</color>
+    <color name="pixelOrange">#FF9800</color>
+
+    <!-- Νέα χρώματα για τις γραμμές εργαλείων -->
+    <color name="toolbarBackground">#FFFFFF</color>
+    <color name="toolbarText">#212121</color>
+
+    <!-- Χρώματα κουμπιών -->
+    <color name="buttonPlay">#673AB7</color>
+    <color name="buttonPause">#FF4081</color>
+    <color name="buttonStop">#F44336</color>
+    <color name="buttonTextEnabled">#FFFFFF</color>
+    <color name="buttonTextDisabled">#BDBDBD</color>
+</resources>

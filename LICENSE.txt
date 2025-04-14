@@ -1,0 +1,2 @@
+MIT License. Free to use, modify, and distribute.  
+No warranties. See LICENSE file for full terms.

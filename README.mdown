@@ -1,0 +1,43 @@
+# 📖 Unipi Audio Stories
+
+Unipi Audio Stories is an Android application developed as part of the **Android Development** course-assignement at my university.
+
+The app allows children to listen to audio stories using their device's Text-to-Speech engine. It also offers real-time data features and basic usage statistics.
+
+---
+
+## Features
+
+- A curated library of at least 5 children's stories
+- Each story includes a related image and extra details ( such as author, year, etc.)
+- Integrated Text-to-Speech to narrate stories aloud (applicable only to greek)
+- Multilingual support (English, German for the app interface, full support only for greek)
+- Firebase Realtime d
+
+---
+
+##Technical implementation/dependencies
+
+- Kotlin (Only for gradle)/ Java
+- Android Studio
+- Android Text-to-Speech
+- Firebase (Auth, Realtime Database, Analytics)
+- AndroidX, Material, Navigation
+- Glide, CircleImageView, RecyclerViewatabase for story storage and syncing
+- Firebase authentication (Email & Password)
+- Statistics activity to track user interactions (e.g., favorites, most-played stories)
+
+---
+
+## Tech Stack
+
+- **Android SDK:** 34   
+- **JDK:** Amazon Corretto 17.0.14  
+
+
+
+
+![App Demo](assets/demo.gif)
+
+---
+
