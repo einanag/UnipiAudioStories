@@ -8,7 +8,7 @@ The app allows children to listen to audio stories using their device's Text-to-
 
 # Features
 
-- A curated library of at least 5 children's stories
+- A curated library of 5 classic children's stories
 - Each story includes a related image and extra details (such as author, year, etc.)
 - Integrated Text-to-Speech to narrate stories aloud (applicable only for Greek)
 - Multilingual support (English, German for the app interface, full support only for Greek)
